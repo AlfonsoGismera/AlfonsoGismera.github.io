@@ -1,17 +1,16 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+title: ¿Que es warhhamer 40k?
+subtitle: Introducción al Trasfondo
+cover-img: /assets/img/Logo-imperio.png
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+share-img: /assets/img/Logo-imperio.png
+tags: [Universo, historia]
 ---
+En el siniestro futuro del 41º Milenio, la Humanidad se encuentra al borde de la extinción. El Imperio del Hombre, que se extiende de un extremo a otro de la galaxia, se ve amenazado por todas partes por feroces alienígenas y desde el interior por criaturas malignas y herejes rebeldes.
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+Los servidores del Emperador consagran su vida a la salvaguardia del Imperio. La galaxia está plagada de monstruosas criaturas que constantemente amenazan con devorar toda civilización o cultura distinta de la suya. Las fuerzas del Caos, un cáncer que ha minado el Imperio durante milenios, son un omnipresente peligro para la vida tal y como la conocemos. Diversas razas alienígenas luchan por destruir la Humanidad y ocupar su puesto dominante en la galaxia.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
-
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
-
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+No hay tiempo para la paz. No hay respiro. No hay posibilidad de olvidar. En el despiadado universo del lejano futuro solo hay guerra.
+En este Universo conviven varias razas
+El Imperio de la Humanidad es el imperio galáctico que engloba a la mayor parte de la Humanidad. El fundador y gobernante del Imperio es el divino Emperador, el psíquico humano más poderoso hasta la fecha. Creó el Imperio hace diez milenios, en la Gran Cruzada del M30, y aunque enterrado e incomunicado en el soporte vital del arcano Trono Dorado, sigue siendo el líder nominal de la raza humana diez milenios después.
