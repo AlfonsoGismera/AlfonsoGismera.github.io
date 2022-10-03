@@ -2,9 +2,10 @@
 layout: post
 title: Emperador de la humanidad
 subtitle: Su historia resumida
+thumbnail-img: /assets/img/Emperador.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [Prueba]
+tags: [Historia]
 comments: true
 ---
 
