@@ -8,6 +8,7 @@ comments: true
 ---
 
  # **Emperador de la humanidad**
+ La encarnación de la humanidad, es psiquico más poderoso que existe y llevo a la humanidad a una segunda edad dorada despues de la caida en la larga noche y la guerra con los hombres de hierro.
 ![Emperador](https://user-images.githubusercontent.com/91463595/193666111-bbe99651-c4a5-4514-9532-c493a03d247e.jpg){: .mx-auto.d-block :}
 
 
