@@ -8,10 +8,15 @@ tags: [test]
 comments: true
 ---
 
-#**Emperador de la humanidad**
-![Emperador](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+# **Emperador de la humanidad**
+
+![Emperador](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+
+
 ## Su inicio
+
 ### Su ascenso 
+
 ### Su Final
 
 
