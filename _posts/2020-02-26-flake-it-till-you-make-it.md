@@ -3,8 +3,8 @@ layout: post
 title: ¿Que es warhhamer 40k?
 subtitle: Introducción al Trasfondo
 cover-img: /assets/img/Logo-imperio.png
-thumbnail-img: /assets/img/Logo-imperio.png
-share-img: /assets/img/Logo-imperio.png
+thumbnail-img: /assets/img/Avatar_nuevo.jpg
+share-img: /assets/img/Avatar_nuevo.jpg
 tags: [Universo, historia]
 ---
 En el siniestro futuro del 41º Milenio, la Humanidad se encuentra al borde de la extinción. El Imperio del Hombre, que se extiende de un extremo a otro de la galaxia, se ve amenazado por todas partes por feroces alienígenas y desde el interior por criaturas malignas y herejes rebeldes.
