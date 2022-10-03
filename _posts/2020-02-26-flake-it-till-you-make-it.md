@@ -3,7 +3,7 @@ layout: post
 title: ¿Que es warhhamer 40k?
 subtitle: Introducción al Trasfondo
 cover-img: /assets/img/Generic_Share_1_with_branding.jpg
-thumbnail-img: /assets/img/Avatar_nuevo.jpg
+thumbnail-img: /assets/img/logo2.jpg
 share-img: /assets/img/Avatar_nuevo.jpg
 tags: [Universo, historia]
 ---
